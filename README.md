@@ -1,6 +1,4 @@
-# PP_TP1 - Trabajo Practico 1
-
-Proyecto de Programacion Orientada a Objetos en Java para los ejercicios 1 al 4.
+# PP_TP1 Julián Santaella 53499
 
 ## Como ejecutar
 
@@ -21,5 +19,3 @@ Proyecto de Programacion Orientada a Objetos en Java para los ejercicios 1 al 4.
 - `Inscripcion.java`
 - `App.java`
 - `mapa_memoria_ejercicio4.png`
-
-El mapa de memoria representa el escenario solicitado en el ejercicio 4.
